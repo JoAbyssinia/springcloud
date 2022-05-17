@@ -1,0 +1,4 @@
+spring:
+  cloud:
+    config:
+      url: http://localhost:9999
